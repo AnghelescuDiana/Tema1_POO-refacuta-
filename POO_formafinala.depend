@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554118033 source:d:\fmi\poo\poo_formafinala\main.cpp
+	<iostream>
+	<string>
+	<queue>
+
